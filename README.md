@@ -38,6 +38,6 @@
 
 1. [X] Autentique-se utilizando um método de segurança oferecido pelo GitHub;
 
-2. [X] Crie Branches para o projeto e realize merge das alterações;
+2. [X] Crie Branches para o projeto e também realize merge das alterações;
 
-3. [X] README.md do perfil legal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />.
+3. [X] README.md do perfil legal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
