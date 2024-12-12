@@ -16,11 +16,13 @@
 
 # Colaboração
 
-1. [ ] Adicione um colaborador ao seu repositório;
+1. [X] Adicione um colaborador ao seu repositório;
 
-2. [ ] Clonem o repositório em suas máquinas locais;
+2. [X] Clonem o repositório em suas máquinas locais;
 
-3. [ ] Realizem alterações, Commits, abra Issues e Pull Requests.
+3. [X] Realizem alterações, Commits, abra Issues e Pull Requests.
+
+   Pronto!
 
 #
 
